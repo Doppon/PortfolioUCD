@@ -1,7 +1,7 @@
 ### Overview
 
-This is the portfplio that I'd been to the UCD(University of California Davis).
-And the story when I traveled in California.
+This is the portfplio that I'd been to the UCD(University of California Davis),
+And the story when I traveled in California in 2017/1/30~2017/2/6.
 
 ### Slicebox
 
